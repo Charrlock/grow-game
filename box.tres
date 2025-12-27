@@ -1,0 +1,7 @@
+[gd_resource type="BoxShape3D" format=3 uid="uid://kpugrx3dqcfi"]
+
+[resource]
+resource_local_to_scene = true
+custom_solver_bias = 1.0
+margin = 5.0
+size = Vector3(15, 15, 15)
