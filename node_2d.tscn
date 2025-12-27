@@ -1,8 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://cb382rcb02hk1"]
-
-[ext_resource type="PackedScene" uid="uid://d0qdslovi1xcb" path="res://Fantasy_Free/assets/models_fbx/bag_001.fbx" id="1_wtcfe"]
-
-[node name="Node2D" type="Node2D"]
-
-[node name="bag_001" parent="." instance=ExtResource("1_wtcfe")]
-transform = Transform3D(10, 0, 0, 0, 10, 0, 0, 0, 10, -0.49494553, -0.6067965, -0.8572159)
